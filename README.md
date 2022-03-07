@@ -1,2 +1,2 @@
 # MatrixOperations-Sau.cs
-Matrisler üzerinde işlemler
+Matris üzerinde işlemler
